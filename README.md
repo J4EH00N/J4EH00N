@@ -1,5 +1,52 @@
+
+<div align="center">
+
+<br/> 
+
+### 👉 [About Me!](https://80000coding.oopy.io/aboutme) 👈
+
+<br/>
+
+<p>
+  <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
+  <a href="https://80000coding.oopy.io/aboutme" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sour_s.h/" target="_blank"><img src="https://img.shields.io/badge/suhshin-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:sushin.bot@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sushin.bot@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+<p>
+I'm Studying in 👨🏻‍💻42Seoul && 🦁Likelion 10th
+</p>
+
+Interested in **C++**, **Swift**, **React**, **TS/JS**
+
+<br>
+
+Take a look at the community I created
+<br>
+<br>
+[📚 팔만코딩경](https://80000coding.oopy.io)
+
+<br>
+
+Take a look at the service I created
+<br>
+
+[📅 Timong](https://timong.kr)
+
+<br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true&theme=react)
+
+
+</div>
+
+
 <!--
-**J4EH00N/J4EH00N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkskekzzz&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!--
+**rkskekzzz/rkskekzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,11 +59,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=내용입력&fontSize=90">
-     
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-
-<a href="https://sjh4ck3r.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
-</a>
