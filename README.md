@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<a href="https://sjh4ck3r.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Python&logoColor=white"/>
+</a>
