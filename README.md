@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/apitype=Slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=내용입력&fontSize=90">
+     
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <a href="https://sjh4ck3r.tistory.com/" target="_blank">
