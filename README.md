@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="https://www.instagram.com/s._.jhoon/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <center>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </center>
   </a>
   <a href="https://www.youtube.com/channel/UCpCD2rr3BXem2xWkMA7tGhg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
