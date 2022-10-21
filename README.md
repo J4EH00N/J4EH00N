@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="150"/>
-</div>
-
-<div id="badges">
+  
+  <div id="badges">
   <a href="https://www.instagram.com/s._.jhoon/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -30,4 +29,8 @@ Here are some ideas to get you started:
   <a href="https://sjh4ck3r.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge"/>
   </a>
+  </div>
+  
 </div>
+
+
