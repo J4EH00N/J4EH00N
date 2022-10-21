@@ -1,47 +1,3 @@
-
-<div align="center">
-
-<br/> 
-
-### 👉 [About Me!](https://80000coding.oopy.io/aboutme) 👈
-
-<br/>
-
-<p>
-  <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
-  <a href="https://80000coding.oopy.io/aboutme" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sour_s.h/" target="_blank"><img src="https://img.shields.io/badge/suhshin-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:sushin.bot@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sushin.bot@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-<p>
-I'm Studying in 👨🏻‍💻42Seoul && 🦁Likelion 10th
-</p>
-
-Interested in **C++**, **Swift**, **React**, **TS/JS**
-
-<br>
-
-Take a look at the community I created
-<br>
-<br>
-[📚 팔만코딩경](https://80000coding.oopy.io)
-
-<br>
-
-Take a look at the service I created
-<br>
-
-[📅 Timong](https://timong.kr)
-
-<br>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true&theme=react)
-
-
-</div>
-
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkskekzzz&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -59,3 +15,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
+
+  
+  ### 🐣 Seon Dal 🐥 
+  
+  ---
+  
+  <a href="https://github.com/seondal"><img alt="solved.ac" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
+ 
+  <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
+
+  <br>
+ 
+</div>
