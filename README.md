@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.instagram.com/s._.jhoon/">
     <img src="https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Insta Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCpCD2rr3BXem2xWkMA7tGhg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://sjh4ck3r.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory Badge"/>
   </a>
 </div>
