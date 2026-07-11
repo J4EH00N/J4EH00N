@@ -65,30 +65,30 @@
 ## Featured Projects
 
 <details>
-<summary><b>🏆 업데이트 기반 확장 프로그램 공급망 보안 시스템 설계 (캡스톤 · 학회 발표)</b></summary>
+<summary><b>업데이트 기반 확장 프로그램 공급망 보안 시스템 설계 (캡스톤 · 학회 발표)</b></summary>
 <br/>
 
-Chrome 확장 프로그램을 공급망 보안 관점에서 재정의해 유입→검증→저장→재평가로 이어지는 다층 검증 체계를 제안한 캡스톤 연구. 2026 한국융합보안학회 하계학술대회에서 논문 발표.
+확장 프로그램을 공급망 보안 관점에서 재정의해 유입→검증→저장→재평가로 이어지는 다층 검증 체계를 제안한 캡스톤 연구. 2026 한국융합보안학회 하계학술대회에서 논문 발표.
 
 | 항목 | 내용 |
 |---|---|
 | Stack | Python, FastAPI, ExtAnalysis, VirusTotal, ClamAV, BGE-M3, Vector DB, AWS |
 | Scale | 8인 공동연구 (학생 5인 + 지도교수 3인) |
 | Security | 정적분석 + 동적분석 + RAG 기반 시나리오 매칭 |
-| Impact | 🏆 **한전KPS 사장상** (2026 한국융합보안학회 하계학술대회) |
+| Impact | **한전KPS 사장상** (2026 한국융합보안학회 하계학술대회) |
 | Repository | Private |
 
 </details>
 
 <details>
-<summary><b>🛡️ WatchDog — AI 브라우저 행위분석 보안 확장</b></summary>
+<summary><b>WatchDog — AI 브라우저 행위분석 보안 확장</b></summary>
 <br/>
 
-2026년 1학기 캡스톤 디자인 프로젝트. 브라우저 사용자 행위를 분석해 이상 행위를 탐지하는 보안 확장 프로그램을 팀장으로 설계·개발했습니다.
+2026년 1학기 캡스톤 디자인 프로젝트. 브라우저 사용자 행위를 분석해 이상 행위를 탐지하는 보안 확장 프로그램을 설계·개발했습니다.
 
 | 항목 | 내용 |
 |---|---|
-| Scale | 팀장 |
+| Scale | 5안 공동연구 (팀장) |
 | Repository | Private |
 
 </details>
