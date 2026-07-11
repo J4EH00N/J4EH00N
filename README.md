@@ -76,7 +76,7 @@
 | Scale | 8인 공동연구 (학생 5인 + 지도교수 3인) |
 | Security | 정적분석 + 동적분석 + RAG 기반 시나리오 매칭 |
 | Impact | **한전KPS 사장상** (2026 한국융합보안학회 하계학술대회) |
-| Repository | Private |
+| Repository | [ExtS3/ES3](https://github.com/ExtS3/ES3) |
 
 </details>
 
