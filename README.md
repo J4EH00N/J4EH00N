@@ -37,7 +37,7 @@
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js)
+![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js)
 
 **Backend & Database**
 
@@ -45,7 +45,7 @@
 
 **Cloud, DevOps & Tooling**
 
-![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Linux](https://skillicons.dev/icons?i=linux)
+![Linux](https://skillicons.dev/icons?i=linux) ![Git](https://skillicons.dev/icons?i=git) ![AWS](https://skillicons.dev/icons?i=aws) ![GitHub](https://skillicons.dev/icons?i=github)
 
 **Security Tooling**
 
