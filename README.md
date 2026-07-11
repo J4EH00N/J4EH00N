@@ -199,43 +199,9 @@ Chrome 확장 프로그램을 공급망 보안 관점에서 재정의해 유입�
 
 </div>
 
-<br/>
-
-## Current Focus
-
-```yaml
-Learning:
-  - OAuth / Account Takeover(ATO) 보안
-  - LLM 기반 보안 자동화
-Building:
-  - LoginGuard (OAuth ATO 진단 SaaS)
-  - JBUCTF 2026 출제 문제
-Exploring:
-  - AI 에이전트 보안
-  - 브라우저 확장 프로그램 공급망 보안
-Open To:
-  - 보안 엔지니어 인턴 / 신입
-  - 협업 프로젝트
-```
-
-<br/>
-
-## Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wogns7930@jmail.ac.kr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehun-sim-77519b39b/)
-[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J4EH00N)
-[![Blog](https://img.shields.io/badge/Blog-6D28D9?style=for-the-badge&logo=tistory&logoColor=white)](https://sjh4ck3r.tistory.com/)
-
 </div>
 
-<br/>
-
 <div align="center">
-
-> "취약점을 쫓는 일보다, 그 길목을 정돈하는 일이 더 근본적이다."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:8b5cf6&height=120&section=footer" width="100%"/>
 
