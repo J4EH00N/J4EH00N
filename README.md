@@ -168,10 +168,7 @@ Chrome 확장 프로그램을 공급망 보안 관점에서 재정의해 유입�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=J4EH00N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=J4EH00N&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4EH00N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=J4EH00N&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="60%"/>
 
 </div>
 
@@ -179,7 +176,7 @@ Chrome 확장 프로그램을 공급망 보안 관점에서 재정의해 유입�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=J4EH00N&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-trophies.devomb.com/?username=J4EH00N&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
