@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:8b5cf6&height=220&section=header&text=Jaehun%20Sim&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20%C2%B7%20AppSec%20%2B%20Threat%20Intelligence&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:8b5cf6&height=220&section=header&text=Jaehun%20Sim&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20%C2%B7%20Threat%20Intelligence%20%26%20Systems%20Security&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://sjh4ck3r.tistory.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Security+Engineer+%7C+AppSec+%26+Threat+Analysis;Browser+Extension+Supply-Chain+Security;RAG+%2B+LLM+for+Security+Triage;Joongbu+University+-+Information+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Security+Engineer+%7C+Threat+Intelligence+%26+Systems+Security;Supply+Chain+%26+Threat+Analysis;RAG+%2B+LLM+for+Security+Triage;Joongbu+University+-+Information+Security" alt="Typing SVG" />
 </a>
 
 <br/>
