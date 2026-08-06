@@ -129,34 +129,9 @@
 
 </div>
 
-<br/>
-
-## Signal
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=j4eh00n&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=j4eh00n&theme=aurora" width="100%" alt="Stars across repositories" /></picture>
-</p>
-
-## The year, so far
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=j4eh00n&theme=aurora&style=jet&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=j4eh00n&theme=aurora&style=jet&mode=dark" width="100%" alt="Contributions in the last year" />
-  </picture>
-</p>
-
-## Profile scan
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=j4eh00n&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=j4eh00n&theme=aurora" width="100%" alt="ASCII profile scan" /></picture>
-</p>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/J4EH00N/J4EH00N/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>panels built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 
 </div>
 
